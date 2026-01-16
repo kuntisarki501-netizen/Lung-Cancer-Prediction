@@ -1,4 +1,4 @@
-##  `requirements.txt`
+##  Requirements.txt
 
 ```txt
 numpy
@@ -10,11 +10,9 @@ jupyter
 ipykernel
 ```
 
-👉 If your notebook uses any extra library (for example `xgboost` or `shap`), you can simply add it later.
 
----
 
-##  `README.md`
+## README.md
 
 ```md
 # Lung Cancer Prediction Project
